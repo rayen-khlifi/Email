@@ -17,7 +17,7 @@ Ce projet a pour objectif de **déterminer si un message email est un spam ou un
 
 ---
 
-## 🧠 Technologies utilisées
+##  Technologies utilisées
 - Python 
 - Google Colab
 - Scikit-learn
@@ -25,7 +25,7 @@ Ce projet a pour objectif de **déterminer si un message email est un spam ou un
 
 ---
 
-## ⚙️ Fonctionnement
+## Fonctionnement
 1. Chargement des données dans Google Colab
 2. Nettoyage du texte (minuscules, suppression des caractères spéciaux)
 3. Suppression des mots vides (stopwords)
